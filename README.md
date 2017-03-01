@@ -13,7 +13,7 @@ A game - [Snake](https://en.wikipedia.org/wiki/Snake_(video_game))
 ##How to use this
 Download the `.xlsm` and play! If you want to create your own sheet, you can just download the `.bas` - the only difference is the buttons.
 
-Note that the macro `Draw Board` must be run to initiate the game timer. On the prepared workbook, it's attached to a button. Once you run that macro, it will wait for your first move via the arrow keys.
+Note that the macro `DrawGameBoard` must be run to initiate the game timer. On the prepared workbook, it's attached to a button. Once you run that macro, it will wait for your first move via the arrow keys.
 
 ###Looking to contribute?
 Please feel free to make a fork or raise an issue on my fork. Modifications may be needed.
